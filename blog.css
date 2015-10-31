@@ -1,0 +1,32 @@
+/* <system section="theme" selected="11696248318757940905"> */
+@import url("http://hatenablog.com/theme/11696248318757940905.css");
+/* </system> */
+
+#blog-title {
+    border-top: none;
+}
+
+#content {
+    border-top: none;
+}
+
+.entry {
+    font-family: "Slab Serif", gotham, Helvetica, Arial, "Droid Sans", sans-serif;
+        border-bottom: none;
+}
+
+h1 a, h1 a:visited {
+    color: #950;
+}
+
+a {
+    color: #555;
+}
+
+a:visited {
+    color: #999;
+}
+
+a:hover {
+    color: #950;
+}:
