@@ -11,8 +11,8 @@ https://github.com/sanographix/zen-for-hatenablog
 ## Usage
 
 1. デザイン -> デザインテーマ
-Select Zen for Hatena Blog
+   Select Zen for Hatena Blog
 
 2. デザイン -> カスタマイズ -> {}デザインCSS
-Copy blog.css
+   Copy blog.css
 
