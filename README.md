@@ -8,7 +8,11 @@ http://samurai20000.hatenablog.com/
 
 https://github.com/sanographix/zen-for-hatenablog
 
-## How to use?
+## Usage
 
-Copy blog.css to the design CSS.
+1. デザイン -> デザインテーマ
+Select Zen for Hatena Blog
+
+2. デザイン -> カスタマイズ -> {}デザインCSS
+Copy blog.css
 
