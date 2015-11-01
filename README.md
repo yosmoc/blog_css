@@ -10,9 +10,10 @@ https://github.com/sanographix/zen-for-hatenablog
 
 ## Usage
 
-1. デザイン -> デザインテーマ
-   Select Zen for Hatena Blog
+### デザイン -> デザインテーマ
 
-2. デザイン -> カスタマイズ -> {}デザインCSS
-   Copy blog.css
+Select Zen for Hatena Blog
 
+### デザイン -> カスタマイズ -> {}デザインCSS
+
+Paste blog.css to editor
